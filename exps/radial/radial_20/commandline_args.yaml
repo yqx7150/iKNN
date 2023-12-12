@@ -1,0 +1,13 @@
+{
+  "batch_size": 1,
+  "debug_mode": false,
+  "forward_weight": 1,
+  "out_path": "./exps_zh/cart/",
+  "task": "test",
+  "gamma": true,
+  "resume": false,
+  "loss": "L1",
+  "lr": 0.0001,
+  "epoch": 5000,
+  "aug": false
+}

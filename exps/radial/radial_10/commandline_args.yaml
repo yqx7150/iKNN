@@ -1,0 +1,13 @@
+{
+  "batch_size": 1,
+  "debug_mode": false,
+  "forward_weight": 1,
+  "out_path": "./exps_av/radial/",
+  "task": "radial_10",
+  "gamma": true,
+  "resume": true,
+  "loss": "L1",
+  "lr": 0.0001,
+  "epoch": 5000,
+  "aug": false
+}
